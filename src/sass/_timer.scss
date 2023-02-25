@@ -1,9 +1,13 @@
+a{
+    position: relative;
+}
+
 input {
     width: 350px;
     padding: 10px;
     margin-bottom: 20px;
     position: absolute;
-    top: 65%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 8px;
@@ -17,7 +21,7 @@ input {
 
 button {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 15px 30px;
